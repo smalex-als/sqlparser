@@ -1,0 +1,4 @@
+github.com/smalex-als/sqlparser v0.0.0-20180606152119-120387863bf2 h1:/eHpaa5OsatosAtGdS2Z1LujK264iaMdvBzJTbIuCg8=
+github.com/smalex-als/sqlparser v0.0.0-20180606152119-120387863bf2/go.mod h1:4F2h8bfwJ02Rug3k4cBuKOhA3J1Nd1mT2Nj3//a9ILM=
+github.com/xwb1989/sqlparser v0.0.0-20180606152119-120387863bf2 h1:zzrxE1FKn5ryBNl9eKOeqQ58Y/Qpo3Q9QNxKHX5uzzQ=
+github.com/xwb1989/sqlparser v0.0.0-20180606152119-120387863bf2/go.mod h1:hzfGeIUDq/j97IG+FhNqkowIyEcD88LrW6fyU3K3WqY=
