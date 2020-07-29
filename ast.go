@@ -122,7 +122,7 @@ func SplitStatementToPieces(blob string) (pieces []string, err error) {
 
 	tkn := 0
 	var stmt string
-	stmtBegin := 0
+	stmtBegin := int64(0)
 	for {
 		tkn, _ = tokenizer.Scan()
 		if tkn == ';' {
